@@ -1,2 +1,1 @@
-# sparta
 # daily_sparta
